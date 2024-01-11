@@ -1,0 +1,31 @@
+body{
+    background-color: White;
+   background-repeat: no-repeat;
+    background-size:1700px 1000px;
+    color: aliceblue;
+    text-align: center;
+    
+
+}
+h1{ color: rgb(249, 13, 13);}
+.in{
+  opacity: 1;
+}
+hr.solid {
+         border-top: 3px solid rgb(17, 8, 8);}
+img{
+  
+}
+
+h2{
+  color: rgb(245, 9, 9);
+}
+input{
+    background-color: rgba(240, 248, 255, 0.156);
+}
+
+.btn{
+    background-color:white;
+    border-radius: 13px;
+
+}
